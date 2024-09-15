@@ -1,8 +1,6 @@
 #include "offsets.h"
 #include <cmath>
-#include "SDK.h"
-// ###################################################### Some useful stuff (I was lazy) ###################################################### \\
-
+#include "SDK.h" 
 
 std::vector<EntityList> entityList;
 
