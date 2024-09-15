@@ -1,0 +1,64 @@
+﻿  hllbase.cpp
+C:\Users\gamer\source\repos\hllbase\hllbase\driver.h(39,32): warning C4129: 's': unrecognized character escape sequence
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(79,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(80,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(91,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(139,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(157,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(158,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\structs.h(176,71): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(147,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(147,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(152,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(152,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(154,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\ESP.h(154,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'hllbase.cpp')
+  
+C:\Users\gamer\source\repos\hllbase\hllbase\hllbase.cpp(116,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\hllbase.cpp(117,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  overlay.cpp
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(185,13): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(186,13): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(189,13): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(190,13): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(232,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(238,47): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(238,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(245,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(252,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(252,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(252,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gamer\source\repos\hllbase\hllbase\overlay.cpp(252,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\gamer\source\repos\hllbase\hllbase\SDK.h(219): warning C4715: 'SDK::GetUWorld': not all control paths return a value
+  All 408 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hllbase.vcxproj -> C:\Users\gamer\source\repos\hllbase\x64\Release\hllbase.exe
